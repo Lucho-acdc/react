@@ -1,0 +1,142 @@
+[
+    {
+      "id": 1,
+      "nombre": "Capitán América Figura de Acción",
+      "descripcion": "Una figura de acción detallada del Capitán América, con su escudo brillante y lista para proteger el día. Perfecta para los fans leales de Marvel.",
+      "categoria": "marvel",
+      "precio": 24.99,
+      "stock": 35,
+      "fabricante": "Hasbro",
+      "dimensiones": {
+        "alto": 14,
+        "ancho": 7
+      },
+      "imagen": "/img/capitan_america.jpg"
+    },
+    {
+      "id": 2,
+      "nombre": "Iron Man Figura de Acción",
+      "descripcion": "Una impresionante figura de acción de Iron Man, con detalles luminosos y sonidos tecnológicos. Ideal para los entusiastas de la alta tecnología y los fanáticos de Tony Stark.",
+      "categoria": "marvel",
+      "precio": 29.99,
+      "stock": 50,
+      "fabricante": "Hasbro",
+      "dimensiones": {
+        "alto": 15,
+        "ancho": 8
+      },
+      "imagen": "/img/iron_man.jpg"
+    },
+    {
+      "id": 3,
+      "nombre": "Thor Figura de Acción",
+      "descripcion": "Una figura de acción única de Thor, sin su martillo pero con una actitud divertida. Descubre el lado relajado del Dios del Trueno con esta pieza de colección.",
+      "categoria": "marvel",
+      "precio": 34.99,
+      "stock": 25,
+      "fabricante": "Marvel Collectibles",
+      "dimensiones": {
+        "alto": 18,
+        "ancho": 10
+      },
+      "imagen": "/img/thor.jpg"
+    },
+    {
+      "id": 4,
+      "nombre": "Batman Figura de Acción",
+      "descripcion": "Una figura detallada de Batman, con su capa ondeando y listo para enfrentarse a los villanos de Gotham. Ideal para los seguidores oscuros de DC Comics.",
+      "categoria": "dccomics",
+      "precio": 26.99,
+      "stock": 40,
+      "fabricante": "DC Collectibles",
+      "dimensiones": {
+        "alto": 13,
+        "ancho": 6
+      },
+      "imagen": "/img/batman.jpg"
+    },
+    {
+      "id": 5,
+      "nombre": "Shazam Figura Coleccionable",
+      "descripcion": "Una figura coleccionable de Shazam con detalles impresionantes, mostrando el poder y la gracia del héroe. Perfecta para los amantes de la magia y la acción.",
+      "categoria": "dccomics",
+      "precio": 31.99,
+      "stock": 30,
+      "fabricante": "DC Collectibles",
+      "dimensiones": {
+        "alto": 16,
+        "ancho": 8
+      },
+      "imagen": "/img/shazam.jpg"
+    },
+    {
+      "id": 6,
+      "nombre": "Wonder Woman Muñeca de Colección",
+      "descripcion": "Una muñeca de colección de Wonder Woman con su traje clásico y expresión valiente. Perfecta para aquellos que buscan la gracia y la fuerza en un juguete.",
+      "categoria": "dccomics",
+      "precio": 36.99,
+      "stock": 20,
+      "fabricante": "DC Collectibles",
+      "dimensiones": {
+        "alto": 14,
+        "ancho": 7
+      },
+      "imagen": "/img/wonder_woman.jpg"
+    },
+    {
+      "id": 7,
+      "nombre": "Combo de los Vengadores",
+      "descripcion": "Un combo especial que incluye figuras de Capitán América, Iron Man y Thor. La combinación perfecta para los amantes de los superhéroes y las aventuras épicas.",
+      "categoria": "combos",
+      "precio": 49.99,
+      "stock": 15,
+      "fabricante": "Hasbro",
+      "dimensiones": {
+        "alto": 20,
+        "ancho": 15
+      },
+      "imagen": "/img/avengers_combo.jpg"
+    },
+    {
+      "id": 8,
+      "nombre": "Batman vs Superman Duelo Épico",
+      "descripcion": "Un set de figuras que representa el épico enfrentamiento entre Batman y Superman. Cada figura cuenta una historia, y juntas forman un duelo impresionante.",
+      "categoria": "combos",
+      "precio": 54.99,
+      "stock": 18,
+      "fabricante": "DC Collectibles",
+      "dimensiones": {
+        "alto": 18,
+        "ancho": 12
+      },
+      "imagen": "/img/batman_superman_combo.jpg"
+    },
+    {
+      "id": 9,
+      "nombre": "Combo de Héroes DC",
+      "descripcion": "Un combo especial que incluye figuras de Batman, Shazam y Wonder Woman. Cada héroe aporta su propio estilo, creando un conjunto asombroso de héroes de DC.",
+      "categoria": "combos",
+      "precio": 59.99,
+      "stock": 12,
+      "fabricante": "DC Collectibles",
+      "dimensiones": {
+        "alto": 22,
+        "ancho": 16
+      },
+      "imagen": "/img/dc_heroes_combo.jpg"
+    },
+    {
+      "id": 10,
+      "nombre": "Combo de Spider-Man y Doctor Strange",
+      "descripcion": "Un combo que presenta a Spider-Man y Doctor Strange en poses cómicas y detalladas. La pareja perfecta para los fanáticos de Marvel que buscan aventuras hilarantes.",
+      "categoria": "combos",
+      "precio": 45.99,
+      "stock": 20,
+      "fabricante": "Marvel Collectibles",
+      "dimensiones": {
+        "alto": 16,
+        "ancho": 10
+      },
+      "imagen": "/img/spiderman_doctorstrange_combo.jpg"
+    }
+]
