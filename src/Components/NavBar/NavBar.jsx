@@ -3,7 +3,7 @@ import Container from 'react-bootstrap/Container';
 import Nav from 'react-bootstrap/Nav';
 import Navbar from 'react-bootstrap/Navbar';
 import 'bootstrap/dist/css/bootstrap.min.css';
-import CardWidget from '../CardWidget/CardWidget'
+import CartWidget from '../CartWidget/CartWidget'
 import logo from '../../logo.png';
 import { Link } from 'react-router-dom';
 
@@ -13,7 +13,7 @@ function NavBar() {
     <div className='contenedorNav'>
       <Navbar bg="dark" data-bs-theme="dark">
         <Container>
-          <Navbar.Brand href="#inicio"><img src={logo} alt="logo" className='logoNavBar'/></Navbar.Brand>
+          <Navbar.Brand href="/"><img src={logo} alt="logo" className='logoNavBar'/></Navbar.Brand>
           <Nav className="me-auto">
             <Link to="/">Inicio</Link>
             <Link to="/category/marvel">Marvel</Link>
@@ -22,7 +22,7 @@ function NavBar() {
           </Nav>
         </Container>
       </Navbar>
-      <Link to="/cart"> <CardWidget /> </Link>
+      <Link to="/cart"> <CartWidget /> </Link>
       </div>
     </>
   );

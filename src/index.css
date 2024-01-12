@@ -51,14 +51,6 @@ h1 {
   background-color: #212529;
 }
 
-.carritoLogo {
-  color: white;
-  display: flex;
-  align-items: center;
-  height: 100%;
-  margin-right: 30px;
-}
-
 button {
   border-radius: 8px;
   border: 1px solid transparent;
